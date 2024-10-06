@@ -44,6 +44,9 @@ Public Class DesviacionTipica
         ' Calcular la desviación estándar (raíz cuadrada de la varianza)
         Dim desviacionTipica As Double = Math.Sqrt(varianza)
         Return Math.Round(desviacionTipica, 2)
+
+        Console.WriteLine("Mensaje de prueba")
+
     End Function
 
 
