@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\mediaarmonicaydesviaciontipica\\mediaarmonicaydesviaciontipica\\desviaciontipica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|solutionrelative:mediaarmonicaydesviaciontipica\\desviaciontipica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\mediaarmonicaydesviaciontipica\\mediaarmonicaydesviaciontipica\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|solutionrelative:mediaarmonicaydesviaciontipica\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\mediaarmonicaydesviaciontipica\\mediaarmonicaydesviaciontipica\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4831BC70-86B0-421A-9665-405271B7ADF4}|MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica.vbproj|solutionrelative:mediaarmonicaydesviaciontipica\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "RelativeDocumentMoniker": "MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "RelativeToolTip": "MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T21:05:16.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesviacionTipica.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\DesviacionTipica.vb",
+              "RelativeDocumentMoniker": "MediaArmonicaYDesviacionTipica\\DesviacionTipica.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\DesviacionTipica.vb",
+              "RelativeToolTip": "MediaArmonicaYDesviacionTipica\\DesviacionTipica.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T19:05:42.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "RelativeDocumentMoniker": "MediaArmonicaYDesviacionTipica\\Inicio.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\MediaArmonicaYDesviacionTipica\\MediaArmonicaYDesviacionTipica\\Inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "MediaArmonicaYDesviacionTipica\\Inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T17:03:54.561Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
