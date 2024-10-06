@@ -10,3 +10,15 @@ C:\Users\Osvaldo Garcia\source\repos\MediaArmonicaYDesviacionTipica\MediaArmonic
 C:\Users\Osvaldo Garcia\source\repos\MediaArmonicaYDesviacionTipica\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.xml
 C:\Users\Osvaldo Garcia\source\repos\MediaArmonicaYDesviacionTipica\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.pdb
 C:\Users\Osvaldo Garcia\source\repos\MediaArmonicaYDesviacionTipica\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.Inicio.resources
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\bin\Debug\MediaArmonicaYDesviacionTipica.exe.config
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\bin\Debug\MediaArmonicaYDesviacionTipica.exe
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\bin\Debug\MediaArmonicaYDesviacionTipica.pdb
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\bin\Debug\MediaArmonicaYDesviacionTipica.xml
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.vbproj.AssemblyReference.cache
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.Inicio.resources
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.Resources.resources
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.vbproj.GenerateResource.cache
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.vbproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.exe
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.xml
+C:\Users\Osvaldo Garcia\Desktop\MediaArmonicaYDesviacionTipica.git\MediaArmonicaYDesviacionTipica\obj\Debug\MediaArmonicaYDesviacionTipica.pdb

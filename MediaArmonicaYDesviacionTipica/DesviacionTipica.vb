@@ -45,7 +45,6 @@ Public Class DesviacionTipica
         Dim desviacionTipica As Double = Math.Sqrt(varianza)
         Return Math.Round(desviacionTipica, 2)
 
-        Console.WriteLine("Mensaje de prueba")
 
     End Function
 
