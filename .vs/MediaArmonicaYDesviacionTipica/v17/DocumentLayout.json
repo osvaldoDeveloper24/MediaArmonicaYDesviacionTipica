@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -52,7 +48,7 @@
               "RelativeDocumentMoniker": "MediaArmonicaYDesviacionTipica\\Inicio.vb",
               "ToolTip": "C:\\Users\\Osvaldo Garcia\\Desktop\\MediaArmonicaYDesviacionTipica.git\\MediaArmonicaYDesviacionTipica\\Inicio.vb",
               "RelativeToolTip": "MediaArmonicaYDesviacionTipica\\Inicio.vb",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-05T21:05:16.343Z",
               "EditorCaption": ""

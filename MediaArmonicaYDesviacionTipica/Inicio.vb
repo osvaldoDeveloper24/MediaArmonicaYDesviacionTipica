@@ -23,6 +23,5 @@ Public Class Inicio
             MessageBox.Show("No se puede calcular la media armónica. SOLO NÚMEROS POSITIVOS", "MEDIA ARMÓNICA Y DESVIACIÓN TÍPICA", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
 
-
     End Sub
 End Class
